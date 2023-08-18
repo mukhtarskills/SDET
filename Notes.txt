@@ -1,0 +1,36 @@
+Important things to keep in mind for this course
+
+
+Why are we here?
+
+
+What do automation engineers do?
+
+Why are we learning java?
+
+How programming languages work?
+
+What is IntelliJ?
+
+What is a project in Intellij?
+
+How to create a project?
+
+How can I create a package?
+
+How to create Notes.txt file?
+
+What is a class?
+
+How to create a class?
+
+Some shortcuts to write code quickly?
+
+What are comments?
+
+Single line comments:
+
+Multiline comments
+
+Syntax:
+
